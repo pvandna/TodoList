@@ -1,5 +1,5 @@
 # React + Vite
-#Todo apllication using local and simple storage in reactjs(by commenting loc which we don't want to run)
+# Todo apllication using local and simple storage in reactjs(by commenting loc which we don't want to run)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
